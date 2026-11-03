@@ -1,0 +1,6 @@
+{
+  "name": "Wi-Fi LAN File Drop - দ্রুত পিসি ফাইল ট্রান্সফার",
+  "description": "লোকাল ওয়াইফাই ও ল্যান নেটওয়ার্কে একাধিক পিসি ও ল্যাপটপের মাঝে যে কোনো ড্রাইভ থেকে ড্র্যাগ-অ্যান্ড-ড্রপ সহ উচ্চগতির ফাইল ট্রান্সফার টুল।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
